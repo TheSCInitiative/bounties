@@ -4,7 +4,7 @@ The SCI is a US 501(c)(3) non-profit organization dedicated to rebuilding the br
 
 You can donate to the SCI's bounty program [here](https://thesciencecommons.org/donate/). If you are making a donation of >$100 we can direct your donation to a specific bounty. You can also help us out by shopping on Amazon and eBay, please see [our donate page](https://thesciencecommons.org/donate/) for more information.
 
-**Developers: "watch" this repository (top right of screen) to be notified when new bounties are opened!**
+**Developers: "watch" this repository (top right of screen) to be notified when new bounties are opened!** These bounties are open to developers from all over the world.
 
 **Important: We have been informed that developers are having issues getting payouts from BountySource**. We have contributed hundreds of dollars to bounties there, and that money is stuck there for now. All further bounty increases will be paid out directly by SCI instead of via BountySource an we encourage devs to see amounts on BountySource with some skepticism as to whether or not they will actually pay out. For example, if a bounty has $200 on it and $100 on BountySource, and we add $50 to our own side of the bounty, we will send $250 to the dev and they are free to request payment from BountySource as well.
 
