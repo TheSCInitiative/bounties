@@ -1,4 +1,7 @@
 Context: Why this bounty exists
+[ethaddr]: ETHADDRESS
+[btcaddr]: BTCADDRESS
+[grcaddr]: GRCADDRESS
 
 **Bounty amount will increase at random times and amounts. Subscribe to this issue to receive notifications about increases**
 
@@ -11,9 +14,15 @@ Context: Why this bounty exists
 **Contribute to this Bounty**
 You can contribute to this bounty by donating [to SCI](https://thesciencecommons.org/donate/) directly. You will get a nice tax deduction, and we will spend those donated funds on our bounty programs. The higher the bounty, the more likely a developer will come along to claim it!
 
-**Bounty amount: $1000 USD**
+You can also donate to this bounty directly by sending crypto to the following addresses. The bounty awardee will receive all crypto sent to these addresses. Did you know that crypto is one of the most effective ways to make donations (for US donors)? Cryptocurrency donations to 501(c)3 nonprofits are considered tax-deductible and do not trigger a taxable event, meaning you do not usually have to pay capital gains tax on them. We request that any individual donating over $500USD (or equivalent) provide their information along with their donation to ensure compliance with our AML and KYC policies. Any organization that wishes to make a donation to SCI is requested to reach out to us directly at contact@thesciencecommons.org. In the event that the awardee does not want the crypto or the bounty is closed without being paid out, it will be turned over to SCI's bounty fund to be spent on future bounties.
+BTC (Bitcoin): [img]https://img.shields.io/badge/dynamic/json?url=https://explorer.viawallet.com/res/btc/addresses/[btcaddr]&query=$.data.balance&suffix=BTC&logo=bitcoin&label=Donated[/img]
+ETH (Ethereum): [img]https://img.shields.io/badge/dynamic/json?url=https://api.ethplorer.io/getAddressInfo/[ethaddr]?apiKey=freekey&query=$.ETH.balance&suffix=ETH&logo=ethereum&label=Donated[/img]
+ETH/DAI (Ethereum/DAI stablecoin): 
+GRC (Gridcoin): 
 
-Payment will be made through PayPal or DAI directly from the SCI upon completion of the work. You will also get the satisfaction of knowing you are helping a software and ecosystem which supports the progress of science. 
+**Bounty amount: $1000 USD + Contents of above crypto addresses**
+
+Payment of USD portion will be made through PayPal or DAI directly from the SCI upon completion of the work. You will also get the contents of the crypto addresses linked above and the satisfaction of knowing you are helping a software and ecosystem which supports the progress of science. 
 
 **Claiming bounty**
 
