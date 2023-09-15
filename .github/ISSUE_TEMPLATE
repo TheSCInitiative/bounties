@@ -1,7 +1,3 @@
-Addresses (remember to replace in badges below)
-[ethaddr]: ETHADDRESS
-[btcaddr]: BTCADDRESS
-[grcaddr]: GRCADDRESS
 **Bounty amount will increase at random times and amounts until it is claimed. Subscribe to this issue to receive notifications about increases**
 
 **Context: Why this bounty exists**
@@ -13,11 +9,11 @@ Addresses (remember to replace in badges below)
 - Submit code to x repo and have it approved by maintainers, following all coding standards used by the repo and making any style and other edits requested by them. In the event that your code is not accepted by maintainers but otherwise meets bounty requirements and solves the issue the bounty is for, the bounty will still be paid out. 
 
 **Contribute to this Bounty**
-You can contribute to this bounty by donating [to SCI](https://thesciencecommons.org/donate/) directly. You will get a nice tax deduction, and we will spend those donated funds on our bounty programs. The higher the bounty, the more likely a developer will come along to claim it!
+You can contribute to SCI's bounty program via PayPal, CC, or Crypto on [our website](https://thesciencecommons.org/donate/). You will get a nice tax deduction, and we will spend those donated funds on our bounty programs. The higher the bounty, the more likely a developer will come along to claim it!
 
 You can also donate to this bounty directly by sending crypto to the following addresses. The bounty awardee will receive all crypto sent to these addresses. Did you know that crypto is one of the most effective ways to make donations (for US donors)? Cryptocurrency donations to 501(c)3 nonprofits are considered tax-deductible and do not trigger a taxable event, meaning you do not usually have to pay capital gains tax on them. We request that any individual donating over $500USD (or equivalent) provide their information along with their donation to ensure compliance with our AML and KYC policies. Any organization that wishes to make a donation to SCI is requested to reach out to us directly at contact@thesciencecommons.org. In the event that the awardee does not want the crypto or the bounty is closed without being paid out, it will be turned over to SCI's bounty fund to be spent on future bounties.
-BTC (Bitcoin): [img]https://img.shields.io/badge/dynamic/json?url=https://explorer.viawallet.com/res/btc/addresses/[btcaddr]&query=$.data.balance&suffix=BTC&logo=bitcoin&label=Donated[/img]
-ETH (Ethereum): ![eth balance badge](https://img.shields.io/badge/dynamic/json?url=https://api.ethplorer.io/getAddressInfo/[ethaddr]?apiKey=freekey&query=$.ETH.balance&suffix=ETH&logo=ethereum&label=Donated[/img])
+BTC (Bitcoin): ![btc balance badge](https://img.shields.io/badge/dynamic/json?url=https://explorer.viawallet.com/res/btc/addresses/[btcaddr]&query=$.data.balance&suffix=BTC&logo=bitcoin&label=Donated)
+ETH (Ethereum): ![eth balance badge](https://img.shields.io/badge/dynamic/json?url=https://api.ethplorer.io/getAddressInfo/[ethaddr]?apiKey=freekey&query=$.ETH.balance&suffix=ETH&logo=ethereum&label=Donated)
 DAI (DAI stablecoin on ETH network): See balance at https://etherscan.io/address/[ethaddr]
 GRC (Gridcoin): [grcaddr]. You can see the balance of this GRC address at http://gridcoinstats.eu/address/[grcaddr]
 
@@ -46,3 +42,8 @@ For this reason, the Science Commons Initiative has announced a bounty currently
 
 For more information, or to contribute to this bounty, please see the GitHub issue here:
 LINK
+
+Addresses (remember to replace in badges above)
+[ethaddr]: ETHADDRESS
+[btcaddr]: BTCADDRESS
+[grcaddr]: GRCADDRESS
