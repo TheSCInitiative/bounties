@@ -4,7 +4,16 @@ The SCI is a US 501(c)(3) non-profit organization dedicated to rebuilding the br
 
 **Developers: "watch" this repository (top right of screen) to be notified when new bounties are opened!** These bounties are open to developers from all over the world.
 
-**Important: We have been informed that developers are having issues getting payouts from BountySource**. We have contributed hundreds of dollars to bounties there, and that money is stuck there for now. All further bounty increases will be paid out directly by SCI instead of via BountySource an we encourage devs to see amounts on BountySource with some skepticism as to whether or not they will actually pay out. For example, if a bounty has $200 on it and $100 on BountySource, and we add $50 to our own side of the bounty, we will send $250 to the dev and they are free to request payment from BountySource as well.
+**Important: We have been informed that developers are having issues getting payouts from BountySource**. We have contributed hundreds of dollars to bounties there, and that money is stuck there for now. All further bounty increases will be paid out directly by SCI instead of via BountySource an we encourage devs to assume any money currently in BountySource cannot be retrieved. We will pay out bounties directly instead.
+
+How our bounty process works in plain english:
+
+- SCI or community identifies code that needs to be written
+- SCI posts bounty to this repo
+- Somebody submits code to claim bounty
+- SCI and relevant parties (project devs, other bountysource contributors) etc review code and suggest changes if needed
+- Once code is up to standard, bounty is awarded. Bounties on other platforms may have their own release conditions and standards such as identify verification.
+- Note that SCI will award bounties even if the code is not merged into the project code base (for example, because it will not make it into the next release of that software)
 
 Here's how the Bounty flow typically works
 
@@ -13,11 +22,3 @@ Here's how the Bounty flow typically works
 For BOINC specifically
 
 ![image](https://github.com/TheSCInitiative/bounties/assets/90811423/a0131edd-a700-40be-9704-316dd5cf8b78)
-
-In plain english:
-- SCI or community identifies code that needs to be written
-- SCI posts bounty to this repo and/or BountySource
-- Somebody submits code to claim bounty
-- SCI and relevant parties (project devs, other bountysource contributors) etc review code and suggest changes if needed
-- Once code is up to standard, bounty is awarded. Bounties on BountySource are awarded via BountySource's terms.
-- Note that SCI will award bounties even if the code is not merged into the project code base (for example, because it will not make it into the next release of that software)
